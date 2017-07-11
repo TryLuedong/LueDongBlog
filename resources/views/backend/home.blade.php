@@ -5,7 +5,7 @@
 @section('header')
     <h1>
         Home
-        <small>Moell Blog</small>
+        <small>Luedong Blog</small>
     </h1>
 @endsection
 
@@ -18,14 +18,8 @@
     <div class="row">
         <div class="col-xs-12">
             <div class="box box-solid" style="padding: 10px;">
-                <h3>欢迎使用Moell Blog!</h3>
-                <strong>简介</strong>
-                <p> Moell Blog 是一个基于Laravel开发，支持markdown语法开源的简易博客,致力于给博主更好的写作体验。</p>
-                <strong>开发者信息</strong>
-                <p>Name : Moell</p>
-                <p>Email : moell91@foxmail.com</p>
-                <p>博客地址 : <a href="http://moell.cn" target="_blank">Moell Blog</a></p>
-                <p>项目地址 : <a href="https://github.com/moell-peng/moell-blog" target="_blank">Github</a></p>
+                <h3>欢迎使用Blog!</h3>
+
 
                 <strong>依赖开源程序</strong>
                 <ul>
