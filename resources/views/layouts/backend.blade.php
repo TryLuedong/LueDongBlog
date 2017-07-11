@@ -67,7 +67,7 @@
                                 <img src="{{ asset('uploads/avatar')."/".Auth::user()->user_pic }}" class="img-circle" alt="User Image">
 
                                 <p>
-                                    Moell Blog - 做努力的自己
+                                    Luedong Blog
                                     {{--<small></small>--}}
                                 </p>
                             </li>
